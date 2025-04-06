@@ -136,13 +136,6 @@ streamlit run app.py
 
 ---
 
-## 🧑‍💻 Author
-
-**Your Name**  
-[@yourgithub](https://github.com/yourusername)
-
----
-
 ## 📄 License
 
 MIT License — free for personal and commercial use.
