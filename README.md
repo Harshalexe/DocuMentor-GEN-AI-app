@@ -2,8 +2,6 @@
 
 An interactive chatbot application powered by Retrieval-Augmented Generation (RAG) that allows users to upload PDFs and ask questions about their content in a session-aware, chat-like interface — powered by LangChain, Streamlit, Groq LLMs, HuggingFace Embeddings, and Chroma vector store.
 
-![App Screenshot](./assets/app_screenshot.jpg)
-
 ---
 
 ## ✨ Features
@@ -61,11 +59,11 @@ The chat UI shows messages using `st.chat_message`, and session-specific memory 
 ## 📷 Demo & Screenshots
 
 ### App UI
-![Chat Screenshot](./assets/chat_example.jpg)
+![Screenshot 2025-04-06 110334](https://github.com/user-attachments/assets/5f26d32b-ccd5-4bfd-8c06-985b3269a130)
 
 ### Video Demo
-https://github.com/yourusername/conversational-rag-assistant/assets/demo_video.mp4  
-*(Replace with actual media)*
+
+https://github.com/user-attachments/assets/417ecf63-f310-4616-b3b4-d96a15769046
 
 ---
 
