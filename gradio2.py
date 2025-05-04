@@ -13,7 +13,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import PyPDFLoader
 import os
 from dotenv import load_dotenv
-
+#
 # Load environment variables
 load_dotenv()
 api_key = os.getenv('GROQ_API')
